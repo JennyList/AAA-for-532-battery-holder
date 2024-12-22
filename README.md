@@ -8,7 +8,7 @@ A 3D printable battery holder designed to replace an Ever Ready 532 battery with
 
 Print the model, either from the STL file or by rendering the OpenSCAD file. I printed mine on a Prusa Mini, with a brim and with supports on the bed.
 
-I found some spring battery terminals designed for battery boxes on AliExpress. Mine were the coiled wire type, and were designed to connect the positive of one cell to the negative of the next. I cut one into two terminals and soldered the two to a pair of wires, as shown in the image below. The spring terminals should slide into the 3D printed receptacle, the wider one being for the negative spring. You may find a set of tweezers useful here. The clip style connectors in the camera were removed, and the wires from the battery holder soldered to their wires, observing polarity. I used heat shring sleeving for insulation on all connectors.
+I found some spring battery terminals designed for battery boxes on AliExpress. Mine were the coiled wire type, and were designed to connect the positive of one cell to the negative of the next. I cut one into two terminals and soldered the two to a pair of wires, as shown in the image below. The spring terminals should slide into the 3D printed receptacle, the wider one being for the negative spring. You may find a set of tweezers useful here. The clip style connectors in the camera were removed, and the wires from the battery holder soldered to their wires, observing polarity. I used heat shrink sleeving for insulation on all connectors.
 
 ![The battery terminals, next to one of the spring terminals I cut in half to make mine.](battery-terminals.jpg)
 
