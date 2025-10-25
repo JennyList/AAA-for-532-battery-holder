@@ -13,3 +13,5 @@ I found some spring battery terminals designed for battery boxes on AliExpress. 
 ![The battery terminals, next to one of the spring terminals I cut in half to make mine.](battery-terminals.jpg)
 
 The resulting AAA battery holder should fit in the clip for the 532, and be short enough to fit within the battery compartment of the camera. This was tested in a Polaroid 104, and it should also work with other similar models.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B41FD5UE)
